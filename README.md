@@ -10,4 +10,4 @@ Graph from Google Books Ngrams Viewer:
 
 Plotted graph from scraped data:
 
-![image](https://user-images.githubusercontent.com/78694043/154011422-89620dab-6ce3-418b-9ddd-f7a33466147a.png)
+![image](https://user-images.githubusercontent.com/78694043/154284774-3bc3d8ce-63fa-48d0-a8b9-81bb875eac21.png)
