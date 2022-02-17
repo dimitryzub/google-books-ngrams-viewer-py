@@ -1,8 +1,8 @@
-# Google Books Ngrams Viewer 
-### Scraping example of Google Books Ngrams Viewer
+<h1 align="center">Google Books Ngrams Viewer</h1>
 
-Have a [look at Jupyter Notebook `google_books_ngram_viewer.ipynb` snippet](https://github.com/dimitryzub/google-books-ngrams-viewer-py/blob/main/google_books_ngram_viewer.ipynb) to see how it's done.
 ____
+
+You can have a [look at Jupyter Notebook `google_books_ngram_viewer.ipynb` snippet](https://github.com/dimitryzub/google-books-ngrams-viewer-py/blob/main/google_books_ngram_viewer.ipynb) to see how it's done.
 
 Graph from Google Books Ngrams Viewer:
 
@@ -11,3 +11,5 @@ Graph from Google Books Ngrams Viewer:
 Plotted graph from scraped data:
 
 ![image](https://user-images.githubusercontent.com/78694043/154284774-3bc3d8ce-63fa-48d0-a8b9-81bb875eac21.png)
+
+> A SerpApi tutorial
