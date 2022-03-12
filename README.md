@@ -1,8 +1,6 @@
 <h1 align="center">Google Books Ngrams Viewer</h1>
 
-____
-
-You can have a [look at Jupyter Notebook `google_books_ngram_viewer.ipynb` snippet](https://github.com/dimitryzub/google-books-ngrams-viewer-py/blob/main/google_books_ngram_viewer.ipynb) to see how it's done.
+If want more in-depth explanation, you can visit [scrape Google Books Ngrams Viewer in Python](https://serpapi.com/blog/scrape-google-books-ngrams-viewer/) tutorial blog post at SerpApi.
 
 Graph from Google Books Ngrams Viewer:
 
