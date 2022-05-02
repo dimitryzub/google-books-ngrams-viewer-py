@@ -9,5 +9,3 @@ Graph from Google Books Ngrams Viewer:
 Plotted graph from scraped data:
 
 ![image](https://user-images.githubusercontent.com/78694043/154284774-3bc3d8ce-63fa-48d0-a8b9-81bb875eac21.png)
-
-> A SerpApi tutorial
